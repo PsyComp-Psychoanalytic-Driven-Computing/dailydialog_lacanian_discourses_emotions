@@ -1,1 +1,2 @@
-# dailydialog_lacanian_discourses_emotions
+# Lacanian Discourse and Emotion Annotation in the DailyDialog Dataset
+
